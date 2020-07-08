@@ -4,3 +4,5 @@ Sus comienzos fueron humildes.
 Estudio en la universidad de Palermo
 
 Comenzo a trabajar en rolling
+
+ahora estoy probando que funcione el nano
